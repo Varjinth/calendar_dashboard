@@ -31,6 +31,12 @@ const TaskModal = ({ isOpen, onClose, addTask }) => {
 
     setError("");
     addTask(task);
+    setTask({
+      startTime: "",
+      endTime: "",
+      date: "",
+      taskName: "",
+    });
     onClose();
   };
 
