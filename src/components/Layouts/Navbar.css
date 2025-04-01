@@ -18,12 +18,14 @@
 }
 
 .nav-btn {
+  display: flex;
+    align-items: center;
     background: none;
     border: none;
     font-size: 12px;
     cursor: pointer;
     color: #7c7c89;
-    padding: 0;
+    padding: 0 ;
     outline: none;
 }
 
