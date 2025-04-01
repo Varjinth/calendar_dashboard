@@ -26,8 +26,8 @@ A **React-based Calendar Dashboard** that allows users to manage their weekly sc
 ### 🔹 1. Clone the Repository  
 
 ```bash
-git clone https://github.com/Varjinth/calendar-dashboard.git
-cd calendar-dashboard
+git clone https://github.com/Varjinth/calendar_dashboard.git
+cd calendar_dashboard
 ```
 
 **🔹 2. Install Vite & Dependencies**
